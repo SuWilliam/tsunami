@@ -2,22 +2,22 @@
 
 ## Backend
 -  Hosting
-  ** AWS EC2
+   - AWS EC2
 -  Server
-  ** Flask
+   - Flask
 -  Database
-  ** postgres
+   - postgres
 
 
 ## Frontend
 -  Hosting
-  ** AWS EC2
+   - AWS EC2
 - Server
-  ** Node (express)
+   - Node (express)
 - React + Redux
-  ** Flow
-  ** Typescript
-  ** SCSS
+   - Flow
+   - Typescript
+   - SCSS
 
 ## Timeline
 - M0 - Setup
